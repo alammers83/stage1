@@ -1,0 +1,47 @@
+
+/* STYLE SHEET FOR HoMEPAGE.HTML */
+/* background-color: #cccccc */
+
+
+ /* This is my css for my nano degree, intro to programming */
+
+
+
+body            {
+    text-align: center;font-family: arial, verdana, helvetica; color: black;border: 14px solid blue;font-size: 10pt; background-color: #E5E5E5;
+}
+
+
+
+h1		{
+	    text-align: center;font-family: arial sans-serif; color: #00BFFF; font-size:32pt; font-weight: bold; border-style: dotted;
+		 }
+
+h2             {
+            text-align: center;font-family: arial, sans-serif; color: black; font-size: 18pt; border-style: dotted;
+
+                 }
+h3             {
+            text-align: center;font-family: arial, sans-serif; color: black; font-size: 14pt; border-style: dotted;
+
+                 }
+
+
+div.center  {
+    width: 1200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+
+ul {
+list-style-type:initial;
+margin: 0;
+padding: 0;
+}
+
+
+li {
+display: block;
+}
